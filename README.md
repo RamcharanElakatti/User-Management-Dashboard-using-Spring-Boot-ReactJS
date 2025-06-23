@@ -109,8 +109,6 @@ bash
 Copy
 Edit
 npm start
-Frontend runs at http://localhost:3000
-Backend runs at http://localhost:8080
 
 🙌 Acknowledgements
 DummyJSON API for sample user data
